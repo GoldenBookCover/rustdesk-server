@@ -1,0 +1,2 @@
+DATABASE_URL=sqlite://./db_v2.sqlite3
+RUSTDESK_SERVER_VERSION="local-1.1.14"
